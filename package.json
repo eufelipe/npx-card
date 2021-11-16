@@ -13,6 +13,13 @@
     "eufelipe card",
     "feliperosas"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eufelipe/npx-card.git"
+  },
   "author": "Felipe Rosas <contato@eufelipe.com> (https://eufelipe.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
 }

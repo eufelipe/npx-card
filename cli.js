@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 
-console.log("hello");
+const pkg = require("./index");
+console.log(pkg());
