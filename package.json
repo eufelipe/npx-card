@@ -1,0 +1,18 @@
+{
+  "name": "eufelipe",
+  "version": "1.0.0",
+  "description": "A personal card business for Felipe Rosas (@eufelipe)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./cli.js",
+  "keywords": [
+    "Felipe Rosas",
+    "eufelipe",
+    "eufelipe card",
+    "feliperosas"
+  ],
+  "author": "Felipe Rosas <contato@eufelipe.com> (https://eufelipe.com)",
+  "license": "ISC"
+}
